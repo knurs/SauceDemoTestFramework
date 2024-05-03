@@ -28,7 +28,7 @@ WebDriver-compatible browser drivers (e.g., ChromeDriver, GeckoDriver)
 **Getting Started**
 _Clone this repository to your local machine:_
 ```bash
-  git clone https://github.com/yourusername/selenium-cucumber-java-webdriver.git
+  git clone https://github.com/knurs/SauceDemoTestFramework.git
 ```
 
 _Navigate to the project directory:_
